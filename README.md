@@ -12,23 +12,23 @@ This repository contains curated remote job opportunities for 2025, powered by [
 
 ## 🔍 Browse Remote Jobs by Company
 
-| Company | Remote Jobs | Description |
-|---------|-------------|-------------|
-| [🚀 Amazon Remote Jobs](./amazon-remote-jobs/) | Latest positions | Remote opportunities at Amazon |
-| [🍎 Apple Remote Jobs](./apple-remote-jobs/) | Latest positions | Remote opportunities at Apple |
-| [📘 Meta Remote Jobs](./meta-remote-jobs/) | Latest positions | Remote opportunities at Meta |
-| [🪟 Microsoft Remote Jobs](./microsoft-remote-jobs/) | Latest positions | Remote opportunities at Microsoft |
-| [🚗 Tesla Remote Jobs](./tesla-remote-jobs/) | Latest positions | Remote opportunities at Tesla |
-| [🔧 NVIDIA Remote Jobs](./nvidia-remote-jobs/) | Latest positions | Remote opportunities at NVIDIA |
+| Company |
+|---------|
+| [Amazon Remote Jobs](./amazon-remote-jobs/) |
+| [Apple Remote Jobs](./apple-remote-jobs/) |
+| [Meta Remote Jobs](./meta-remote-jobs/) |
+| [Microsoft Remote Jobs](./microsoft-remote-jobs/) |
+| [Tesla Remote Jobs](./tesla-remote-jobs/) |
+| [NVIDIA Remote Jobs](./nvidia-remote-jobs/) |
 
 ## 💼 Browse Remote Jobs by Position
 
-| Position | Remote Jobs | Avg Salary | Growth Rate |
-|----------|-------------|------------|-------------|
-| [📊 Remote Data Analyst Jobs](./remote-data-analyst-jobs/) | Latest positions | $75k-$120k | +22% |
-| [🧬 Remote Data Scientist Jobs](./remote-data-scientist-jobs/) | Latest positions | $95k-$165k | +35% |
-| [💻 Remote Software Engineer Jobs](./remote-software-engineer-jobs/) | Latest positions | $85k-$180k | +25% |
-| [📋 Remote Product Manager Jobs](./remote-product-manager-jobs/) | Latest positions | $90k-$170k | +19% |
+| Position |
+|----------|
+| [Remote Data Analyst Jobs](./remote-data-analyst-jobs/) |
+| [Remote Data Scientist Jobs](./remote-data-scientist-jobs/) |
+| [Remote Software Engineer Jobs](./remote-software-engineer-jobs/) |
+| [Remote Product Manager Jobs](./remote-product-manager-jobs/) |
 
 ## 🚀 Get Started with AMA Career
 
@@ -38,22 +38,6 @@ This repository contains curated remote job opportunities for 2025, powered by [
 2. **Practice Interviews** - Get personalized interview coaching
 3. **Discover Hidden Opportunities** - Our AI finds roles that match your unique skills
 4. **24/7 Job Search Support** - Your personal AI job twin working around the clock
-
-## 📈 Why Remote Work?
-
-- **🌍 Global Opportunities** - Access jobs from companies worldwide
-- **⚖️ Work-Life Balance** - Better flexibility and personal time
-- **💰 Cost Savings** - Save on commuting and office expenses
-- **🎯 Increased Productivity** - Studies show 13-50% productivity gains
-
-## 🤖 How AMA Career Helps
-
-Our AI-powered platform provides:
-
-- **Personalized Job Matching** - AI analyzes your skills and preferences
-- **Resume Optimization** - Tailored resumes for each application
-- **Interview Preparation** - Practice with AI-powered mock interviews
-- **Career Guidance** - End-to-end support from application to offer
 
 
 ## 🔗 Quick Links
