@@ -2,25 +2,17 @@
 
 > **Find Your Dream Remote Job at Amazon** - Discover remote opportunities at Amazon with [AMA Career's](https://amacareer.ai/) AI-powered job search.
 
-[![AMA Career](https://img.shields.io/badge/AMA_Career-AI_Job_Search-blue)](https://amacareer.ai/)
-[![Amazon Jobs](https://img.shields.io/badge/Amazon-Remote_Jobs-orange)](https://amacareer.ai/)
-[![Remote Work](https://img.shields.io/badge/Remote-Work_2025-green)](https://amacareer.ai/)
 
 ## 📋 Latest Amazon Remote Jobs
 
 | Role | Post Date | Company Name | Sponsorship Status | Apply | Seniority Level | Employment Type |
 |----------|----------|----------|----------|----------|----------|----------|
-| Senior Software Engineer | 2025-01-15 | Amazon | No Sponsorship | [Apply with AMA Career](https://amacareer.ai/) | Senior | Full-Time |
 
 
-*Last Updated: 2025-08-04*
 
-## 📊 Repository Stats
+*Last Updated: 2025-08-05*
 
-- **🔄 Updated**: Daily
-- **📋 Total Jobs**: Active Amazon remote positions
-- **🏢 Company**: Amazon
-- **📍 Locations**: Worldwide remote opportunities
+
 
 ## 🔗 Quick Links
 
