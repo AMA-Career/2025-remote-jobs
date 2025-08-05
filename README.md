@@ -34,14 +34,6 @@ While this repository showcases a selection of great tips, for a comprehensive a
 | [Remote Software Engineer Jobs](./remote-software-engineer-jobs/) |
 | [Remote Product Manager Jobs](./remote-product-manager-jobs/) |
 
-## 🚀 Get Started with AMA Career
-
-**Transform your remote job search with AI:**
-
-1. **[Create Your AI-Enhanced Resume](https://amacareer.ai/)** - Our AI analyzes your background and crafts targeted resumes
-2. **Practice Interviews** - Get personalized interview coaching
-3. **Discover Hidden Opportunities** - Our AI finds roles that match your unique skills
-4. **24/7 Job Search Support** - Your personal AI job twin working around the clock
 
 
 ## 🔗 Quick Links
