@@ -1,14 +1,18 @@
 # 🏠 Remote Jobs 2025 | AMA Career Job Board
 
-> **Your AI-Powered Remote Job Search Companion** - Find remote opportunities with AMA Career's intelligent job matching system.
-
 [![AMA Career](https://img.shields.io/badge/AMA_Career-AI_Job_Search-blue)](https://amacareer.ai/)
 [![Remote Jobs](https://img.shields.io/badge/Remote-Jobs_2025-green)](https://amacareer.ai/)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-purple)](https://amacareer.ai/)
 
-## 🎯 About This Repository
+> **Your AI-Powered Remote Job Search Companion** - Find remote opportunities with AMA Career's intelligent job matching system.
 
-This repository contains curated remote job opportunities for 2025, powered by [AMA Career](https://amacareer.ai/) - your 24/7 AI job search co-pilot. We help professionals land their dream remote positions through AI-enhanced resume building, interview preparation, and personalized job matching.
+While this repository showcases a selection of great tips, for a comprehensive and personalized job search experience, we invite you to explore [AMA Career](https://amacareer.ai). Powered by AI, AMA Career acts as your 24/7 job search co-pilot — helping you generate tailored resumes and cover letters, practice interviews, and discover the best-fit roles based on your unique background. From your first application to final offer, we’re here to support every step
+
+
+<p align="center">🤖 <a href="https://amacareer.ai">Your personal AI job twin, working 24/7 to get you hired</a> 🤖</p>
+
+
+---
 
 ## 🔍 Browse Remote Jobs by Company
 
